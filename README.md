@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h1 align="center">Hi!<img align="top" height="48" src="https://i.pinimg.com/originals/ab/fe/8c/abfe8c1262ff20e6e2e50833538d92ea.gif"  /> My name is Viraj dilshan.</h1>
+<h1 align="center">Hi!<img align="center" height="48" src="https://i.pinimg.com/originals/ab/fe/8c/abfe8c1262ff20e6e2e50833538d92ea.gif"  /> My name is Viraj dilshan.</h1>
 
 
 
