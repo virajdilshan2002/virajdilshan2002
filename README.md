@@ -1,37 +1,70 @@
-Hi 👋 My name is Viraj Dilshan
-==============================
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=virajdilshan2002.virajdilshan2002&left_color=navy&right_color=lightskyblue&left_text=Profile%20Views"  />
+</div>
 
-Undergraduate Student · IJSE-Institute of Software Engineering
---------------------------------------------------------------
+###
 
-🫠 Learning...
+<br clear="both">
 
-* 🌍  I'm based in Sri Lanka.
-* ✉️  You can contact me at [virajdilshan2019@gmail.com](mailto:virajdilshan2019@gmail.com)
-* 🧠  I'm learning Java , MySQL.
-* ⚡  listening to music.
+<h1 align="center">Hi!😀 My name is Viraj Dilshan</h1>
 
-<a href="https://www.github.com/virajdilshan2002" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/virajdilshan2002?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a>
+###
 
-### Skills
+<p align="center">I'm a Undergraduated Student, from IJSE-Institute of Software Engineering.</p>
 
+###
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<p align="center"><img height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"  /></p>
 
+###
 
-### Socials
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
 
-<p align="left"> <a href="https://www.facebook.com/virajdilshan2002" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/virajdilshan2002" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/lghvirajdilshan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+###
 
-### Badges
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=virajdilshan2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=Viraj%20Dilshan's%20GitHub%20stats" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=virajdilshan2002&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virajdilshan2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="120" alt="languages graph"  />
+</div>
 
-<b>My GitHub Stats</b>
+###
 
-<a href="http://www.github.com/virajdilshan2002"><img src="https://github-readme-stats.vercel.app/api?username=virajdilshan2002&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="virajdilshan2002's GitHub stats" /></a>
+<p align="center"><img height="200" src="https://miro.medium.com/v2/resize:fit:1136/1*2pORtePzzyTbNXMUQelSCQ.gif"  /></p>
 
-<a href="http://www.github.com/virajdilshan2002"><img src="https://github-readme-streak-stats.herokuapp.com/?user=virajdilshan2002&stroke=ffffff&background=181824&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <a href="https://open.spotify.com/user/31xaf74f3wa43ld4mgoatilil7f4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xaf74f3wa43ld4mgoatilil7f4&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<a href="https://github.com/virajdilshan2002" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajdilshan2002&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.facebook.com/virajdilshan2002" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=facebook&logo=facebook&label=&color=0652DD&logoColor=white&labelColor=0652DD&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+  <a href="virajdilshan2019@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=FF0000&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/virajdilshan2002" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF3C70&logoColor=white&labelColor=FF3C70&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/qr/2V443GUWB3BOK1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=15D100&logoColor=white&labelColor=15D100&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
