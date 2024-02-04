@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center"><img height="300" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"  /></p>
+<p align="center"><img height="350" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"  /></p>
 
 ###
 
@@ -40,7 +40,8 @@
 
 ###
 
-<p align="center"><img height="200" src="https://miro.medium.com/v2/resize:fit:1136/1*2pORtePzzyTbNXMUQelSCQ.gif"  /></p>
+
+<img align="center" height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/477b1384-aa52-4b9c-8b01-e6cf8194d6f9/dexb4hn-1f812288-bac5-40e5-9b79-e6de79992cd0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3N2IxMzg0LWFhNTItNGI5Yy04YjAxLWU2Y2Y4MTk0ZDZmOVwvZGV4YjRobi0xZjgxMjI4OC1iYWM1LTQwZTUtOWI3OS1lNmRlNzk5OTJjZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.szC8u07GeqN8Neu9PnAWmP-8SDOx6eAStL-eicZbs4M"  />
 
 <div align="center">
   <a href="https://open.spotify.com/user/31xaf74f3wa43ld4mgoatilil7f4">
@@ -49,6 +50,7 @@
 </div>
 
 ###
+<img align="center" height="300" src="https://64.media.tumblr.com/84f27799609ffcb28bcba7671006abc6/6d0a9ee53fe0760b-b1/s1280x1920/bcc2e3f1000908849fe92014c17cbb9215f4c408.gif"  />
 
 <br clear="both">
 
