@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=virajdilshan2002.virajdilshan2002&left_color=navy&right_color=lightskyblue&left_text=Profile%20Views"  />
 </div>
@@ -6,8 +7,7 @@
 
 <br clear="both">
 
-<h1 align="center">HI! <img align="center" height="48" src="https://i.pinimg.com/originals/ab/fe/8c/abfe8c1262ff20e6e2e50833538d92ea.gif"  /> I'M VIRAJ DILSHAN</h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFF4&background=FFFFFF00&center=true&random=false&width=435&lines=HI!+%F0%9F%A5%B0+IM+VIRAJ+DILSHAN)](https://git.io/typing-svg)
 
 
 ###
