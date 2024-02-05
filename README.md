@@ -7,8 +7,8 @@
 
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFF4&background=FFFFFF00&center=true&random=false&width=435&lines=HI!+%F0%9F%A5%B0+IM+VIRAJ+DILSHAN)](https://git.io/typing-svg)
 
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFF4&background=FFFFFF00&center=true&random=false&width=435&lines=HI!+%F0%9F%A5%B0+IM+VIRAJ+DILSHAN" alt="Typing SVG" /></a></p>
 
 ###
 
