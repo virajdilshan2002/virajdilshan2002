@@ -23,7 +23,7 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/setup-python@v3
+      - uses: actions/setup-python@v5
 
     # Generates the snake  
       - uses: Platane/snk@master
