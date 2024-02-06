@@ -1,3 +1,4 @@
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=virajdilshan2002.virajdilshan2002&left_color=navy&right_color=lightskyblue&left_text=Profile%20Views"  />
