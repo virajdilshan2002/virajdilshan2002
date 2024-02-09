@@ -1,19 +1,11 @@
 
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=virajdilshan2002.virajdilshan2002&left_color=navy&right_color=lightskyblue&left_text=Profile%20Views"  />
-</div>
-
-###
-
-<br clear="both">
-
-
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sf+Pro+Display&weight=500&size=30&pause=1000&color=FFB800&background=FFFFFF00&center=true&random=false&width=450&lines=HI!+%F0%9F%A5%B0+I'M+VIRAJ+DILSHAN" alt="Typing SVG" /></a></p>
 
 ###
 
+
 <p align="center">I'm a Undergraduated Student, from IJSE-Institute of Software Engineering.</p>
+
 
 ###
 
