@@ -39,18 +39,6 @@
 
 ###
 
-
-<p align="center"><img height="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/477b1384-aa52-4b9c-8b01-e6cf8194d6f9/dexb4hn-1f812288-bac5-40e5-9b79-e6de79992cd0.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3N2IxMzg0LWFhNTItNGI5Yy04YjAxLWU2Y2Y4MTk0ZDZmOVwvZGV4YjRobi0xZjgxMjI4OC1iYWM1LTQwZTUtOWI3OS1lNmRlNzk5OTJjZDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.szC8u07GeqN8Neu9PnAWmP-8SDOx6eAStL-eicZbs4M"  />
-
-<img height="120" src="https://cdn.domestika.org/c_fill,dpr_auto,f_auto,q_auto,w_767/v1578773800/content-items/003/598/759/Todo-original.gif?1578773800"  />
-</p>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31xaf74f3wa43ld4mgoatilil7f4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xaf74f3wa43ld4mgoatilil7f4&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 <p align="center"><img align="center" height="250" src="https://64.media.tumblr.com/84f27799609ffcb28bcba7671006abc6/6d0a9ee53fe0760b-b1/s1280x1920/bcc2e3f1000908849fe92014c17cbb9215f4c408.gif"  /></p>
 
